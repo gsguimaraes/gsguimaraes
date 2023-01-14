@@ -1,10 +1,9 @@
 <h2>Olá, Mundo! ☕</h2>
 
 <p>
-Guilherme estudou Informática no Colégio Técnico Industrial - "Prof. Isaac Portal Roldán" e é Front-end Developer. Apaixonado por tecnologia, livros e jogos de FPS 😆
+Guilherme estudou Informática no Colégio Técnico Industrial - "Prof. Isaac Portal Roldán" e é Back-end Developer. Apaixonado por tecnologia, livros e jogos de FPS 😆
 </p>
 
-</br>
 
 <h2>Tecnologias de interesse</h2>
 
